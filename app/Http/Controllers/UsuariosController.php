@@ -14,7 +14,7 @@ class UsuariosController extends Controller
     public function __construct(){
 
     }
-
+    // Procesar Login
     public function store(Request $request)
     {
         //
